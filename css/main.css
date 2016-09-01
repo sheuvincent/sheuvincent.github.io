@@ -25,20 +25,20 @@ h1 {
 }
 p {
     font-family:'Crimson', 'Garamond', 'Helvetica', 'Sans-Serif';
-    font-size: 1.5em;
-    line-height: 1.4em;
+    font-size: 1.2em;
+    line-height: 1.2em;
     color: #333;
 }
 p-sans {
     font-family:'Helvetica', 'Sans-Serif';
-    font-size: 1.5em;
-    line-height: 1.4em;
+    font-size: 1.2em;
+    line-height: 1.2em;
     color: #333;
 }
 p-serif {
     font-family:'Crimson', 'Garamond', 'Serif';
-    font-size: 1.5em;
-    line-height: 1.4em;
+    font-size: 1.2em;
+    line-height: 1.2em;
     color: #333;
 }
 footer {
