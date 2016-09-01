@@ -3,7 +3,7 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-    font-family:'Crimson', 'Helvetica', 'Sans-Serif';
+    font-family:'Crimson', 'Garamond', 'Helvetica', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -21,9 +21,22 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family:'Crimson', 'Helvetica', 'Sans-Serif';
+    font-family:'Crimson', 'Garamond', 'Helvetica', 'Sans-Serif';
 }
 p {
+    font-family:'Crimson', 'Garamond', 'Helvetica', 'Sans-Serif';
+    font-size: 1.5em;
+    line-height: 1.4em;
+    color: #333;
+}
+p-sans {
+    font-family:'Helvetica', 'Sans-Serif';
+    font-size: 1.5em;
+    line-height: 1.4em;
+    color: #333;
+}
+p-serif {
+    font-family:'Crimson', 'Garamond', 'Serif';
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
