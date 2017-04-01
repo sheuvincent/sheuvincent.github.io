@@ -9,7 +9,7 @@ body {
 
 .logo > img {
   /* Round edges of profile picture */
-  border-radius: 50%;
+  border-radius: 80%;
 }
 
 h1, p {
