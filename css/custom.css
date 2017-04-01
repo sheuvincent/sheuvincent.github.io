@@ -3,15 +3,15 @@ body {
 }
 
 .backstretch > img {
-    /* Dim background image */
-    filter: saturate(50%) brightness(50%);
+  /* Dim background image */
+  filter: saturate(50%) brightness(50%);
 }
 
 .logo > img {
-    /* Round edges of profile picture */
-    border-radius: 10%;
+  /* Round edges of profile picture */
+  border-radius: 10%;
 }
 
 h1, p {
-    color: lightgrey;
+  color: lightgrey;
 }
