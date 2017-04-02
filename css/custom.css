@@ -12,6 +12,10 @@ body {
   border-radius: 75%;
 }
 
-h1, p {
+h1 {
   color: lightgrey;
+}
+
+p {
+    color: white;
 }
