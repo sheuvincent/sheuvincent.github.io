@@ -4,7 +4,7 @@ body {
 
 .backstretch > img {
   /* Dim background image */
-  filter: saturate(60%) brightness(50%);
+  filter: saturate(70%) brightness(50%);
 }
 
 .logo > img {
