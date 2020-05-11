@@ -1,2 +1,4 @@
 name: Vincent Sheu
 markdown: kramdown
+
+theme: jekyll-theme-minimal
